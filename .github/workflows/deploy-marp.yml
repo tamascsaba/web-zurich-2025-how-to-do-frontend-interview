@@ -1,0 +1,39 @@
+name: Deploy Marp Slides to GitHub Pages
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+
+    - name: Install Marp CLI
+      run: npm install -g @marp-team/marp-cli
+
+    - name: Generate HTML slides
+      run: marp slides/slides.md -o dist/index.html
+
+    - name: Copy images
+      run: cp -r slides/img dist/img
+
+    - run: ls -la dist
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ${{ github.workspace }}/dist
