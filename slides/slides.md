@@ -89,14 +89,14 @@ Tips on organizing interviews select candidate and providing constructive feedba
 ---
 
 # Current situation 🧑‍💻
-- **Job market is more competitive than ever**: becouse of the massive layoffs significantly increased the competition.
+- **Job market is more competitive than ever**: because of the massive layoffs significantly increased the competition.
 - Juniors are now competing with experienced engineers (companies don't want to hire juniors) 😢
 - Top of that companies are increasingly outsourcing jobs to lower cost regions like India and Eastern Europe (for examle: Poland)
 - Less and less remote possibilities, companies prefer hybrid work
 - AI is impacting everything
 
 
-but i like the challanges 🥊
+but I like the challanges 🥊
 <!-- _footer: More details about the problems here - https://youtu.be/SNZ8tydEMM4?si=98KavuYeEJulT4XS -->
 
 
@@ -250,8 +250,8 @@ It’s more about presenting yourself as someone who can collaborate well with t
 ---
 
 # Third round  -> The first techical interview 🧑‍💻
-- It's important to check types of interviews (at [glassdoor](https://www.glassdoor.com/)).
-  - Big fang tech companies like see primarily data structure and algorithm coding interview(s) ->  [LeetCode](leetcode.com), [HackerRank](hackerrank.com)
+- It's important to check the types of interviews (on [glassdoor](https://www.glassdoor.com/)).
+  - Big Fang tech companies primarily focus on data structure and algorithm coding interviews ->  [LeetCode](leetcode.com), [HackerRank](hackerrank.com)
   - Smaler companies (like random local bank) like traditional techical interview, like talk about JavaScript basics, networking, frameworks etc... -> [Front End Interview Handbook](https://frontendinterviewhandbook.com)
 - You have to prepare, but if you are familiar with the process it is much more stress free
 - Be up-to-date with the latest technologiest and try to prepare
@@ -298,7 +298,7 @@ Remember, it’s not just about the final answer but about how you approach the 
 # X round of coding/techical interviews 🥷
 
 ### What not to do
-- Do not lie you don't have to show myself an expert in everything
+- Don't have to show yourself an expert in everything
 - Don’t overcomplicate, start with a simple solution and iterate if needed.
 - Don’t ignore time limits, keep an eye on time and prioritize completing a basic solution.
 
@@ -375,7 +375,7 @@ I prefer easy questions first to help the candidate relax, then I dive deeper. I
 ### How I like to commonicate 🤗
 
 - Pls do not send: *we have decided not to move forward with your application* oneliner
-- If you pick or filter somebody please write the exact reason, **transparent commonication is priceless**
+- If you pick or filter someone, please provide the exact reason, **transparent commonication is priceless**
 - Give a chance to prove
 
 I like to write:
