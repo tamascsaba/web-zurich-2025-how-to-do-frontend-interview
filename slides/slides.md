@@ -10,7 +10,7 @@ paginate: true
 ## (Frontend) Interview process 🧑‍💻
  **Csaba Tamas**
 
-> Lessons learned from both sides of the table
+> Lessons learned from both sides of the table.
 > What to do and not to do.
 
 <!--
@@ -23,13 +23,15 @@ paginate: true
 ## About me 🧔🏻‍♂️
 👨‍💻 Frontend Architect
 
+🥷 Working on large-scale  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  projects
+
 🅰️ Angular contributor
 
-🥷 Working on large-scale projects
+🗻 Hiking lover
 
-🏋️‍♀️Powerlifter competitor
+🐱 Owner of 3 cats
 
-![bg right:63% ](./img/fuji.jpg)
+![bg right:60% ](./img/fuji.jpg)
 
 <!--
 Let me quickly introduce myself.
@@ -41,8 +43,8 @@ I used lot of web based technoligies, like webcrypto or webassambly...,
 <!-- _class: invert -->
 
 # Slides 🎞️
-- You can download my slides just scan the QR code
-- **Marp**: markdown presentation ecosystem from **Yuki Hattori** 🇯🇵
+- You can download my slides just scan the QR code.
+- **Marp**: markdown presentation ecosystem from **Yuki Hattori**. 🇯🇵
 - It is a powerful TypesSript based framework, that enables you to create stunning slides effortlessly.
 
 ![bg right:40% width:90%](./img/qr-code.png)
@@ -59,24 +61,30 @@ By the way, these slides are made with Marp, a TypeScript-based framework create
 ---
 
 
-# Today topics and why I am here? 🇨🇭
+# Today's topics and why I am here. 🇨🇭
 
 Personal motivation 👼.
 
 This presentation consists of II parts:
 
 1. What you can do to became perfect applicant, from the first round to the final stages.
-2. Tips on organizing interviews select candidate and providing constructive feedback.
+2. Tips on lead interviews select candidate and provide constructive feedback.
 
-I try to give you the most of the takeaways what I can
+I try to give you the most of the takeaways what I can.
 
 
 <!--
 
 This presentation is split into two main parts:
 
-Walkthrough of the interview process, covering each step from the first round to the final stages.
-Tips on organizing interviews select candidate and providing constructive feedback.
+In the first part I would like to give you lot of tips how you can  became perfect candidate, covering each step from the first round to the final stages.
+
+In the secound part I would like to show you how I organize interviews select candidate and provide constructive feedback.
+
+I am just a frontend geek, not a HR expert my tips based on my experiances, so if you have more knowladge 
+don't hesitate to share with me.
+
+I try to give you the most of the tips and takeaways what I can
 
 -->
 
@@ -84,16 +92,16 @@ Tips on organizing interviews select candidate and providing constructive feedba
  
  # First part. 
 
- What you can do to became perfect applicant 💪
+ What you can do to became perfect applicant. 🤓
 
 ---
 
 # Current situation 🧑‍💻
 - **Job market is more competitive than ever**: because of the massive layoffs significantly increased the competition.
-- Juniors are now competing with experienced engineers (companies don't want to hire juniors) 😢
-- Top of that companies are increasingly outsourcing jobs to lower cost regions like India and Eastern Europe (for examle: Poland)
-- Less and less remote possibilities, companies prefer hybrid work
-- AI is impacting everything
+- Juniors are now competing with experienced engineers (companies don't want to hire juniors). 😢
+- Top of that companies are increasingly outsourcing jobs to lower cost regions like India or Eastern Europe.
+- Less and less remote possibilities, companies prefer hybrid work.
+- AI is impacting everything.
 
 
 but I like the challanges 🥊
@@ -102,9 +110,14 @@ but I like the challanges 🥊
 
 <!--
 
-Let’s start by talking about the current job market. It’s more competitive than ever. Due to the massive layoffs in recent years, there are now more candidates than ever vying for frontend positions.
+Let’s start by talking about the current job market. It’s more competitive than ever. Due to the massive layoffs in recent years, there are now more candidates than ever fight for frontend positions.
 
-Junior developers, in particular, are now competing with experienced engineers. Some companies, frankly, don’t want to hire juniors anymore. Also, there’s a growing trend of outsourcing to lower-cost regions, like Poland, India, and Eastern Europe. And to top it all off, many companies are offering hybrid roles, making it harder for those looking for fully remote positions.
+Junior developers, in particular, are now competing with experienced engineers. 
+Some companies, don’t want to hire juniors anymore. 
+
+Also, there’s a growing trend of outsourcing to lower-cost regions like India or Eastern Europe. 
+
+Top of them many companies are offering hybrid roles, making it harder for those looking for fully remote positions.
 
 And let’s not forget, AI is impacting everything, now mostly it is part of the CV screening process
 
@@ -120,12 +133,13 @@ But, I love a good challenge, let's see what we can do! 🥊"
 - Sometimes, even if the job description matches your CV, it’s not enough to move to the next stage.
 
 <br><br>
-I don't like to filter people by CV, pls do not do it 🙏, details later.
+I don't like to filter people by CV, pls do not do it if you can 🙏, details later.
 
 <!--
 So, let’s start with the first round—your CV. The CV is more important than ever. It’s the first key of your future job, and because of the large volume of applicants, most companies will start by filtering through CVs before anything else.
 
-I personally don’t like filtering people based on their CV, but I know many companies do, if you can influnece the HR pls do not do it.  I’ll explain why in just a moment."
+I personally don’t like filtering candidates based on their CV, because many great engineers have poor ones.
+I know many companies do. If you can influence HR, please try to do. I’ll explain why in just a moment."
 
  -->
 
@@ -157,21 +171,21 @@ These small things can make a huge difference."
 # AI and HR likes content ✍️
 
 - Write a good introduction about yourself
-- Modify your resume to the job description. Include relevant technical skills to the job.
-- Identify key skills (e.g., React, TypeScript) and buzzwords mentioned in the listing.
+- Highlight the relevant technical skills and buzzwords. Include relevant technical skills to the job.
 - Use natural language to integrate keywords into sentences.
 - Include technical and soft skills relevant to the job. <br>For example: "Frontend Frameworks: React | State Management: Redux."
-- Focus on quantifiable achievements: "Redesigned a dashboard using Angular, reducing load time by 25%."
+- Focus on achievements: "Redesigned a dashboard using Angular, reducing load time by 25%."
 - Mention courses like "Google UX Design,"  or relevant AI/ML topics.
 
 <!-- _footer: Good and open source tool to create CV: [Open-Resume](https://www.open-resume.com/) -->
 
 <!--
-Let’s talk about what AI is actually looking for. It loves relevant content. Here are some things you can do to optimize your CV:
+Let’s talk about what AI and HR is actually looking for your CV.
+They love the relevant content. Here are some things you can do to optimize your CV:
 
 Write a short, compelling introduction about yourself.
-Tailor your CV to match the job description. Highlight the relevant technical skills and buzzwords.
-Quantify your achievements where possible. For example, ‘Redesigned a dashboard using Angular, reducing load time by 25%.’ Numbers speak volumes.
+Highlight the relevant technical skills and buzzwords.
+Write your achievements where possible. For example, ‘Redesigned a dashboard using Angular, reducing load time by 25%.’ Numbers speak volumes.
 Mention relevant courses like Google UX Design or AI/ML courses.
 This approach will ensure that AI gives your CV the green light."
 
@@ -214,7 +228,7 @@ True
 
 ```
 
-<!-- _footer: I subscibed all the AI resume chacker app maybe the best: https://jobscan.co/ -->
+<!-- _footer: I subscibed all the AI resume chacker app, maybe the best: https://jobscan.co/ -->
 
 ---
 
@@ -232,7 +246,11 @@ True
 
 
 <!--
-Alright, once you pass through the CV filter, you’ll likely have an HR interview. Now, this round is more about soft skills and cultural fit. If you’ve got good soft skills, this round can be quite easy.
+Alright, once you pass through the CV filter, you’ll likely have an HR interview. 
+
+Now, this round is more about soft skills and cultural fit. 
+
+If you’ve got good soft skills, this round can be quite easy.
 
 Some things to keep in mind:
 
@@ -264,22 +282,22 @@ It’s more about presenting yourself as someone who can collaborate well with t
 
 Data structures and algorithms, especially in Big Tech companies (think Google, Facebook, etc.). You’ll likely encounter challenges on LeetCode or HackerRank.
 For other companies, expect questions around JavaScript basics, networking, or frontend frameworks like React or Angular.
-Preparation is key here. Stay up to date with the latest technologies and don’t neglect the basics. Familiarity with the process will make things less stressful.
+Preparation is key here. Stay up to date with the latest technologies and don’t forget the basics. 
+
+Familiarity with the process will make things less stressful.
 
  -->
 
 ---
 
-
-# X round of coding/techical interviews 🥷
-
-### What to do:
+# What to do coding/techical interviews 🥷
 
 - Take your time to read and clarify the question. (look all the source files)
 - Communicate your thought, this shows your problem-solving skills, even if you don’t get the perfect solution.
 - Write pseudocode or draw component first structure before you writing code.
 - If you get stuck, stay calm and positive and share how you’re trying to debug or rethink the solution.
 
+<br><br><br><br>
 <!--
 
 "Let’s talk about what you should do in the coding interview:
@@ -295,9 +313,8 @@ Remember, it’s not just about the final answer but about how you approach the 
 
 ---
 
-# X round of coding/techical interviews 🥷
+# What not to do coding/techical interviews 🥷
 
-### What not to do
 - Don't have to show yourself an expert in everything
 - Don’t overcomplicate, start with a simple solution and iterate if needed.
 - Don’t ignore time limits, keep an eye on time and prioritize completing a basic solution.
@@ -315,7 +332,6 @@ Remember, the goal is to show that you can think critically and solve problems e
 -->
 
 ---
-
 
 # Final round with the CTO or team fit 🧘
 
@@ -339,7 +355,7 @@ Finally, the last round is often with the CTO or the team. This is usually the f
 ### How I do the interview process 🧑‍💻
 
 - It is not my method, but I modified for my needs.
-- I don’t like filtering by CV. I prefer filtering by attitude. 🥰
+- I don’t like it when HR filters candidates by CV. I prefer filtering based on attitude. 🥰
 - Send the interview methods to all the candidates. (traditional, realistic, show yourself)
 - I like to start with interesting project 👀
 
@@ -356,7 +372,7 @@ I also like to start with an interesting project to discuss. It’s not just abo
 ---
 
 
-### How I do lead the technical interview 🧑‍💻
+### How I lead the technical interview 🧑‍💻
 
 - Start with fundamental questions, for me it is more important to know than knowledge of the framework
 - Easy questions first (good to relax the candidate) and ask deeper and deeper informations. 
@@ -372,7 +388,7 @@ I prefer easy questions first to help the candidate relax, then I dive deeper. I
 
 ---
 
-### How I like to commonicate 🤗
+### Finally how I like to commonicate 🤗
 
 - Pls do not send: *we have decided not to move forward with your application* oneliner
 - If you pick or filter someone, please provide the exact reason, **transparent commonication is priceless**
@@ -396,6 +412,9 @@ Lastly, a few words about communication. After an interview, please don’t send
 # Thank you very much!
 
 # 🙋🏻‍♀️ Questions? 🙋🏻
+
+
+If you have later: reach me on twitter/x [@tamcsaba](https://x.com/tamcsaba) or in person. ❤️
 
 
 <!--
